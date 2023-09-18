@@ -19,7 +19,7 @@ I study backend development.
 <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-585858?style=flat&logo=github&logoColor=white"/></a>
 
 ### 📈 Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dhxogh123123)](https://solved.ac/dhxogh123123)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dhxogh123123)](https://solved.ac/dhxogh123123)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhTaeHo-97&show_icons=true&theme=radical)
 <!--
 **OhTaeHo-97/OhTaeHo-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

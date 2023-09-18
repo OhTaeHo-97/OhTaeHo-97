@@ -10,6 +10,13 @@ I study backend development.
 
 ### 🔨 Stack
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-58ACFA?style=flat&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-01DF3A?style=flat&logo=spring&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-01DF3A?style=flat&logo=springboot&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring Data JPA-01DF3A?style=flat&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-01DF3A?style=flat&logo=mysql&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-FE9A2E?style=flat&logo=amazonaws&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Git-FE2E2E?style=flat&logo=git&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-585858?style=flat&logo=github&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dhxogh123123)](https://solved.ac/dhxogh123123)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhTaeHo-97&show_icons=true&theme=radical)

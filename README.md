@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=OhTaeHo%20render&fontSize=90" />
 <a href="https://velog.io/@taeho97" target="_blank"><img src="https://img.shields.io/badge/blog-585858?style=flat&logo=Velog&logoColor=white"/></a>
 
 <!--

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://velog.io/@taeho97" target="_blank"><img src="https://img.shields.io/badge/blog-green?style=flat&logo=Velog&logoColor=CC6699"/></a>
+
 <!--
 **OhTaeHo-97/OhTaeHo-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
